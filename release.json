@@ -1,0 +1,39 @@
+{
+    "format": "cadcraft-edition",
+    "version": 1,
+    "app": "civilcraft",
+    "name": "CivilCraft",
+    "edition": "browser",
+    "release": "dev",
+    "semver": "dev",
+    "tag": "civilcraft-vdev",
+    "zip": "civilcraft-browser-edition-vdev.zip",
+    "packed_at": "2026-10-22T11:31:06Z",
+    "from": {
+        "build": "dev",
+        "released_at": null,
+        "git": null
+    },
+    "license": "Apache-2.0",
+    "libs": {
+        "delaunator": "5.1.0",
+        "geotiff": "3.0.5",
+        "laz-perf": "0.0.7",
+        "noble-ciphers": "2.4.0",
+        "noble-curves": "2.4.0",
+        "noble-hashes": "2.4.0",
+        "proj4": "2.22.0",
+        "robust-predicates": "3.0.3",
+        "sql.js": "1.14.2",
+        "three": "0.186.1",
+        "bootstrap": "5.3.8",
+        "bootstrap-icons": "1.13.2",
+        "archivo": "5.2.8"
+    },
+    "changes_to_copied_files": [
+        "Library URLs written as /assets/vendor/<lib>/current/ are pinned to the versions listed in release.json."
+    ],
+    "files": 286,
+    "bytes_before_this_file": 13871047,
+    "notes": null
+}
